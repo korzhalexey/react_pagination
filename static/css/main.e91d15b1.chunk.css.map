@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/app.scss"],"names":[],"mappings":"AAAA,YACE,cAAe","file":"main.e91d15b1.chunk.css","sourcesContent":[".pagination {\n  max-width: 95vw;\n}\n"]}
